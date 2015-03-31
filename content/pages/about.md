@@ -8,7 +8,7 @@ slug: about
 $ whoami  
 
 - ddaa / 0xddaa
-- HITCON CTF team member
+- Both in HITCON CTF team and Bamboofox CTF team
 - Software Quality Lab, Department of Computer Science
 - National Chiao Tung University
 
