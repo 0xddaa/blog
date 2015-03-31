@@ -10,7 +10,7 @@ SITEURL = "http://ddaa.tw"
 FAVICON = "favicon.ico"
 
 PATH = 'content'
-THEME = "theme"
+THEME = "theme/pelican-mg"
 
 LOCALE = ('en_US.UTF-8')
 TIMEZONE = 'Asia/Taipei'
