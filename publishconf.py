@@ -29,6 +29,7 @@ SOCIAL = (('facebook-square', 'http://www.facebook.com/xddaa'),
         ('envelope-o', 'mailto:0xddaa@gmail.com'),)
 
 SHARE = True
+DISQUS_SITENAME = "ddaactf"
 
 FOOTER = ("&copy; 2015 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
 
