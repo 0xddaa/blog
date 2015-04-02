@@ -60,4 +60,4 @@ doge.listen("0.0.0.0", 1024)
 最後猜到 */etc/passwd*  
 ![flag.png]({filename}/images/30c3CTF_2013_doge_flag.png)
 
-key: `30C3_51dd250e0adb864ff40cc40b818852f4`
+flag: `30C3_51dd250e0adb864ff40cc40b818852f4`

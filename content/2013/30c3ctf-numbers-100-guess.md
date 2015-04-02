@@ -106,4 +106,4 @@ for (i = 0; i < 624; i++) {
 用新的 state 套上前面計算的方式，就是下次的 answer  
 ![flag.png]({filename}/images/30c3CTF_2013_guess_flag.png)  
 
-key:`30C3_b9b1579866cccd28b1918302382c9107`
+flag: `30C3_b9b1579866cccd28b1918302382c9107`
