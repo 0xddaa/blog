@@ -47,4 +47,4 @@ slug: gits_2014_trivia_150_lugkist
 果然排序後就得到key了  
 `P o w e r   o v e r w h e l m i n g ?   B a c k   i n   m y   d a y   c h e a t s   d i d   n o t   h a v e   s p a c e s .`  
 
-key : `Power overwhelming? Back in my day cheats did not have spaces.`  
+flag: `Power overwhelming? Back in my day cheats did not have spaces.`  
