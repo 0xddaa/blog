@@ -1,6 +1,9 @@
 from __future__ import unicode_literals
 import locale
 
+def until_hr(string):
+    return string[:string.find("<hr />")]
+
 AUTHOR = 'ddaa'
 SITENAME = "ddaa's blog"
 ALT_NAME = ""
@@ -33,7 +36,7 @@ DISQUS_SITENAME = "ddaactf"
 
 FOOTER = ("&copy; 2015 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5 
 
 AUTHOR_SAVE_AS = ''
 #DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search', 'tags')
@@ -47,5 +50,5 @@ TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 
 # test / publish
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_PATH = 'output/'
 RELATIVE_URLS = False
+JINJA_FILTERS = {"until_hr" : until_hr}
