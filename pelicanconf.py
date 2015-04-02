@@ -7,7 +7,7 @@ ALT_NAME = ""
 SITESUBTITLE = "Write-ups for CTF."
 EMAIL = "0xddaa@gmail.com"
 SITEURL = "http://ddaa.tw"
-FAVICON = "favicon.ico"
+FAVICON = "images/favicon.ico"
 
 PATH = 'content'
 THEME = "theme/pelican-mg"
@@ -37,13 +37,14 @@ DEFAULT_PAGINATION = 10
 AUTHOR_SAVE_AS = ''
 #DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search', 'tags')
 DIRECT_TEMPLATES = ('index', 'categories', 'archives')
-STATIC_PATHS = ["images", "images/favicon.ico'"]
+STATIC_PATHS = ["images", "exp"]
 
-RELATIVE_URLS = False
-
-TWITTER_USERNAME = '0xddaa'
-DISQUS_SITENAME = "ddaactf"
 
 PLUGIN_PATHS = ["/usr/local/lib/python2.7/site-packages/pelican/pelican-plugins"]
 PLUTIN_ = ["tipue_search"]
 TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+
+# test / publish
+DELETE_OUTPUT_DIRECTORY = True
+OUTPUT_PATH = 'test/'
+RELATIVE_URLS = True
