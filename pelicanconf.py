@@ -46,5 +46,4 @@ TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 
 # test / publish
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_PATH = 'test/'
 RELATIVE_URLS = True
