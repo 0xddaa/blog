@@ -1,7 +1,7 @@
 title: CSAW CTF 2014 pwn 300 ish
 date: 2014-9-23 9:23
 category: pwn
-tags: CSAWCTF, memory leak
+tags: CSAWCTF, uninit 
 slug: csawctf_2014_pwn_300_ish
 
 接觸 CTF 一年整了...  
