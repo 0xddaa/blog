@@ -1,7 +1,7 @@
 title: 30C3CTF 2013 Number 100 Guess
 date: 2013-12-30 22:56
 category: crypto
-tags: 30c3CTF, PRNG
+tags: 3XC3CTF, PRNG
 slug: 30c3ctf_2013_number_100_guess
 
 第一次玩的 wargame --- 程式安全的作業1  

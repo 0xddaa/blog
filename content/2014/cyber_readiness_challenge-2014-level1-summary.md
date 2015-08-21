@@ -1,7 +1,7 @@
 title: Cyber Readiness Challenge 2014 Level 1 Summary
 date: 2014-4-2 22:51
 category: forensic
-tags:
+tags: OtherCTF
 slug: cyber_readiness_challenge_2014_level1_summary
 
 今天跟 **jeffxx** 和 **atdog** 參加賽門鐵克主辦的 CTF  

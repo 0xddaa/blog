@@ -1,7 +1,7 @@
 title: CAMPCTF 2015 Pwn 300 datenklo manager
 date:
 category: pwn
-tags: CAMPCTF, hof
+tags: OtherCTF, hof
 slug: campctf_pwn_300_dkm
 
 這次的 pwn 題型都很和善  

@@ -1,7 +1,7 @@
 title: phd CTF 2014 Pwn 3900 pyjail
 date: 2014-1-28 21:31
 category: pwn
-tags: phdCTF
+tags: OtherCTF
 slug: phd_2014_pwn_3900_pyjail
 
 這題解超久 = = 好險有解出來  

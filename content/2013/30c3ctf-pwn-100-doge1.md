@@ -1,7 +1,7 @@
 title: 30C3CTF 2013 PWN 100 DOGE1
 date: 2013-12-30 21:25
 category: pwn
-tags: 30c3CTF, bof
+tags: 3XC3CTF, bof
 slug: 30c3ctf_2013_pwn_100_doge1
 
 這次都沒有人陪打 QQ  
