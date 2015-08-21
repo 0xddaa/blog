@@ -1,7 +1,7 @@
 title: ASIS CTF Crypto 150 Random Image
 date: 2014-5-16 22:16
 category: crypto
-tags: OtherCTF
+tags: Other CTF
 slug: asisctf_crypto_150_random_image
 
 I didn't spend a lot of time at this CTF because I need to present my project about openstack. 217 is very powerful. When I joined the game, most of problems have been solved. I tried to solve the problem **easy reading**, but finally it was fruitless. (Nobody solved it.)  

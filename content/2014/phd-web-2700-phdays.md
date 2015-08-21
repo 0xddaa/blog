@@ -1,8 +1,8 @@
 title: phd CTF 2014 Web 2700 PHDays 
 date: 2014-1-28 20:05
 category: web
-tags: OtherCTF, sqli, frequency analysis
-slug: phd_2014_web_2700_phdays
+tags: Other CTF, sqli, frequency analysis
+slug: phd_web_2700_phdays
 
 其實題目全名是  
 *stand back, we have PHDays!*  

@@ -1,7 +1,7 @@
 title: Dragon Sector CTF 2014 Pwnable200 
 date: 2014-4-29 3:15
 category: pwn
-tags: OtherCTF, fmt str vuln
+tags: Other CTF, fmt str vuln
 slug: dsctf_pwn_200_calc_machine
 
 I almost forget how to use format string vulnerability attack......  

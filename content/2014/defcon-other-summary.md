@@ -2,7 +2,7 @@ title: DEFCON 22 CTF final log
 date: 2014-8-13 18:34
 category: other
 tags: DEFCON CTF
-slug: defcon_other_log
+slug: defcon_other_summary
 
 **===WARNING===**
 這篇文章廢話超多......  

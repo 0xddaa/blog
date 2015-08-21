@@ -1,7 +1,7 @@
 title: Secuinside ctf 2014 reverse 100 find key
 date: 2014-6-9 2:46
 category: reverse
-tags: OtherCTF
+tags: Other CTF
 slug: secuinside_reverse_100_find_the_key
 
 這題是快要結束才開出來的一題 reverse  

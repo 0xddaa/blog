@@ -1,7 +1,7 @@
 title: Pwnium CTF 2014 pwn 200 Be a robot 
 date: 2014-7-11 22:59
 category: pwn
-tags: OtherCTF, uninit
+tags: Other CTF, uninit
 slug: pwnium_pwn_200_be_a_robot
 
 Pwnium CTF....but there is only one pwn problem. lol  

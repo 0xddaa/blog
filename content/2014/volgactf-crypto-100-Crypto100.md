@@ -1,8 +1,8 @@
 title: VolgaCTF 2014 Crypto 100 Crypto100 
 date: 2014-3-31 1:14
 category: crypto
-tags: OtherCTF
-slug: volgactf_2014_crypto_100_crypto100
+tags: Other CTF
+slug: volgactf_crypto_100_crypto100
 
 crypto 只有解出 100 分而已  
 其他都沒解出來...  
