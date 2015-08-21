@@ -2,7 +2,7 @@ title: Codegate CTF Preliminary 2014 150 WeirdShark
 date: 2014-2-25 0:20
 category: forensic
 tags: CodegateCTF
-slug: codegate_2014_forensic_150_weirdshark
+slug: codegate_forensic_150_weirdshark
 
 這題是這次 CTF 唯一的一題 Forensics ......  
 * * *

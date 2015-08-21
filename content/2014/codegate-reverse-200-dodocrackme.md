@@ -2,7 +2,7 @@ title: Codegate CTF Preliminary 2014 200 dodoCrackme
 date: 2014-2-24 1:53
 category: reverse
 tags: CodegateCTF
-slug: codegate_2014_reverse_200_dodocrackme
+slug: codegate_reverse_200_dodocrackme
 
 這是應該是我玩過的 CTF 裡面最硬的一次 ORZ  
 大量的 pwn 和 reversing  

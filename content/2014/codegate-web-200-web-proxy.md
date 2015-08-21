@@ -2,7 +2,7 @@ title: Codegate CTF Preliminary 2014 200 Web Proxy
 date: 2014-2-26 2:24
 category: web
 tags: CodegateCTF, CRLF
-slug: codegate_2014_web_200_web_proxy
+slug: codegate_web_200_web_proxy
 
 這題被 **orange** 秒殺了  
 我是賽後才解出來的 Orz  
