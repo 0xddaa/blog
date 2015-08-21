@@ -2,7 +2,7 @@ title: GiTs 2014 Crypto 75 Dogecrypt
 date: 2014-1-20 23:46
 category: crypto
 tags: GiTsCTF
-slug: gits_2014_crypto_75_dogecrypt
+slug: gits_crypto_75_dogecrypt
 
 老實說我覺得這題出滿爛的  
 害我花最長時間解結果沒解出來  

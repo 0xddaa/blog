@@ -2,7 +2,7 @@ title: GiTs 2014 Reverse 150 papsmear
 date: 2014-1-20 19:58
 category: reverse
 tags: GiTsCTF
-slug: gits_2014_reverse_150_papsmear
+slug: gits_reverse_150_papsmear
 
 這題很慢才打開  
 解出來的時後竟然超過時間了阿阿阿  
