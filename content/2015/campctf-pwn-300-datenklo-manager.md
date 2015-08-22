@@ -1,5 +1,5 @@
 title: CAMPCTF 2015 Pwn 300 datenklo manager
-date:
+date: 2015-8-21 13:29
 category: pwn
 tags: Other CTF, hof
 slug: campctf_pwn_300_dkm
