@@ -19,7 +19,7 @@ slug: csawctf_web_500_weebdate
 這題的 `flag = md5(TOTPKEY + password)`  
 
 這個交友網站除了一般的帳號密碼以外  
-還需要填入 oauth 解 `TOTPKEY` 的結果才能成功登入  
+還需要填入 oath 解 `TOTPKEY` 的結果才能成功登入  
 可以用以下指令來解:  
 `oathtool --base32 --totp AAAAAAAAAAAA`  
 得到的結果是一個 6 位數字  
