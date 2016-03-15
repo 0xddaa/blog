@@ -1,8 +1,8 @@
 title: Boston Key Party CTF 2014 Pwn 100 risc_emu 
 date: 2014-3-2 23:50 
 category: pwn
-tags: BKTCTF, Out-of-bound
-slug: bktctf_pwn_100_risc_emu
+tags: BKPCTF, Out-of-bound
+slug: bkpctf_pwn_100_risc_emu
 
 這次為期36小時  
 題目很多 而且有些感覺很有趣  

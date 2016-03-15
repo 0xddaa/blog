@@ -1,8 +1,8 @@
 title: Boston Key Party CTF 2014 Crypto 200 Xorxes the Hash 
 date: 2014-3-3 0:48 
 category: crypto
-tags: BKTCTF, collision
-slug: bktctf_crypto_200_xorxes_the_hash
+tags: BKPCTF, collision
+slug: bkpctf_crypto_200_xorxes_the_hash
 
 這題出的有點爛  
 限制太少導致 flag 可能有很多種  

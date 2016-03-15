@@ -1,8 +1,8 @@
 title: Boston Key Party CTF 2015 Pwn 275 Harvard Square 
 date: 2015-03-02 1:50
 category: pwn
-tags: BKTCTF, bof
-slug: bktctf_pwn_275_harvard_square
+tags: BKPCTF, bof
+slug: bkpctf_pwn_275_harvard_square
 
 This problem was worth 275 pts, but I thought it is easier than other red problems. XD  
 We could reverse it happily beacuse the programe wasn't stipped.  

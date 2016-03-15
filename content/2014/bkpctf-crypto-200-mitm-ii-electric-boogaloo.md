@@ -1,8 +1,8 @@
 title: Boston Key Party CTF 2014 Crypto 200 MITM II: Electric Boogaloo 
 date: 2014-3-3 16:48 
 category: crypto
-tags: BKTCTF, MITM
-slug: bktctf_crypto_200_200_mitm_ii_electric_boogaloo
+tags: BKPCTF, MITM
+slug: bkpctf_crypto_200_200_mitm_ii_electric_boogaloo
 
 這題還滿簡單的  
 解法就是題目名稱 = =  
