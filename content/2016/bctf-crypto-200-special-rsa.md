@@ -4,7 +4,7 @@ category: crypto
 tags: XCTF, rsa
 slug: bctf_crypto_200_special_rsa
 
-這題是很基本的 crypto 題目
+這題是很基本的 crypto 題目  
 從有 94 隊解就知道了...= =  
 不過我還是想了好久 QQ  
 對現代密碼學實在不太擅長  
