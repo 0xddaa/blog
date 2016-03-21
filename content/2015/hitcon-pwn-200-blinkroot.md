@@ -1,7 +1,7 @@
 title: HITCON 2015 PWN 200 blinkroot
 date: 2015-10-20 1:23
 category: pwn
-tags: HITCONCTF, dl_resolve
+tags: HITCON CTF, dl_resolve
 slug: hitcon_pwn_200_blinkroot
 
 這次也是一題都沒解出來  
