@@ -32,6 +32,8 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
+all: github
+
 help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
@@ -108,4 +110,4 @@ github: publish
 	echo "ddaa.tw" > ${OUTPUTDIR}/CNAME
 	cd ${OUTPUTDIR} &&git init && git add . && git commit -m "Generate Pelican site" && git remote add origin git@github.com:0xddaa/0xddaa.github.io.git && git push origin $(GITHUB_PAGES_BRANCH) -f
 
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+.PHONY: all html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github

@@ -9,7 +9,7 @@ slug: seccon_re+crypto_200_lostdecryption
 Crypto is so difficult. Orz
 * * *
 
-題目給了兩個檔案 **cipher**, **libencrypt.so**  
+題目給了三個檔案 **cipher**, **libencrypt.so**, **flag.enc**  
 cipher 沒辦法執行, 會噴出以下 error:
 > ./cipher: error while loading shared libraries: libdecrypt.so: cannot open shared object file: No such file or directory
 
