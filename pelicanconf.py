@@ -11,7 +11,7 @@ SITESUBTITLE = "Write-ups for CTF."
 EMAIL = "0xddaa@gmail.com"
 SITEURL = "http://ddaa.tw"
 FAVICON = "images/favicon.ico"
-META_IMAGE = "images/avatar.jpg"
+META_IMAGE = SITEURL + "/images/avatar.jpg"
 
 PATH = 'content'
 THEME = "theme/pelican-mg"
