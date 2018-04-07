@@ -11,6 +11,7 @@ SITESUBTITLE = "Write-ups for CTF."
 EMAIL = "0xddaa@gmail.com"
 SITEURL = "http://ddaa.tw"
 FAVICON = "images/favicon.ico"
+META_IMAGE = "images/avatar.jpg"
 
 PATH = 'content'
 THEME = "theme/pelican-mg"
@@ -33,7 +34,7 @@ SOCIAL = (('facebook-square', 'http://www.facebook.com/xddaa'),
 
 SHARE = True
 
-FOOTER = ("&copy; 2015 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
+FOOTER = ("&copy; 2018 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
 
 DEFAULT_PAGINATION = 5 
 
