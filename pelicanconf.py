@@ -2,7 +2,12 @@ from __future__ import unicode_literals
 import locale
 
 def until_hr(string):
-    return string[:string.find("<hr />")]
+    if string.find('<hr>'):
+        return string[:string.find('<hr>')]
+    elif string.find('<hr />'):
+        return string[:string.find('<hr />')]
+    else:
+        return string[:0x100]
 
 AUTHOR = 'ddaa'
 SITENAME = "ddaa's blog"
