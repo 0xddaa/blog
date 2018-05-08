@@ -1,7 +1,7 @@
 title: Trend Micro CTF 2017 write-ups 
 date: 2017-6-25 20:01
 category: misc
-tags: engima, wireshark, frequency analysis, Other CTF
+tags: Engima, Wireshark, Frequency Analysis, Other CTF
 slug: tmctf_misc_2400_write_ups
 
 Our team `phddaa` (what the f...) got 2400 points and 19th rank this year.  

@@ -1,7 +1,7 @@
 title: CSAW CTF 2015 web 500 Weebdate
 date: 2015-9-22 0:24
 category: web
-tags: CSAWCTF, LFI, sqli
+tags: CSAWCTF, LFI, SQL Injection
 slug: csawctf_web_500_weebdate
 
 這題能解出來要歸功於  

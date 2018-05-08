@@ -1,7 +1,7 @@
 title: BCTF 2016 crypto 200 Special RSA
 date: 2016-3-21 20:13 
 category: crypto
-tags: XCTF, rsa
+tags: XCTF, RSA
 slug: bctf_crypto_200_special_rsa
 
 這題是很基本的 crypto 題目  

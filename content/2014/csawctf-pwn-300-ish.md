@@ -1,7 +1,7 @@
 title: CSAW CTF 2014 pwn 300 ish
 date: 2014-9-23 9:23
 category: pwn
-tags: CSAWCTF, uninit 
+tags: CSAWCTF, Uninitialized
 slug: csawctf_pwn_300_ish
 
 接觸 CTF 一年整了...  
@@ -46,7 +46,7 @@ slug: csawctf_pwn_300_ish
 `memset` 不會被觸發到  
 密碼會被留在 stack 中  
 
-*lotto* 有 **uninitial varaible** 造成的 memory leak  
+*lotto* 有 **uninitialized varaible** 造成的 memory leak  
 可惜是用 `%u` 去印  
 沒辦法自由調整位置  
 

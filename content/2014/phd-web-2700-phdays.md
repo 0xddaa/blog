@@ -1,7 +1,7 @@
 title: phd CTF 2014 Web 2700 PHDays 
 date: 2014-1-28 20:05
 category: web
-tags: Other CTF, sqli, frequency analysis
+tags: Other CTF, SQL Injection, Frequency Analysis
 slug: phd_web_2700_phdays
 
 其實題目全名是  

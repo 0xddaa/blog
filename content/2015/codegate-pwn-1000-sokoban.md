@@ -1,7 +1,7 @@
 title: Codegate CTF 2015 pwn 1000 sokoban 
 date: 2015-3-24 12:55
 category: pwn 
-tags: Codegate CTF, off-by-one
+tags: Codegate CTF, Off-by-one
 slug: codegate_pwn_1000_sokoban
 
 The challenge is a game that called **sokoban**. lol  

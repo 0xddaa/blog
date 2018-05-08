@@ -1,7 +1,7 @@
 title: 0CTF 2018 Pwnable 478 Zer0 FS
 date: 2018-4-6 22:51
 category: pwn
-tags: 0CTF, linux kernel
+tags: 0CTF, Linux kernel
 slug: 0ctf_pwnable_478_zer0fs
 
 The problem was solved with **jeffxx**, **atdog** and **lays**  

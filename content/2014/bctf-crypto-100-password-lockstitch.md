@@ -1,7 +1,7 @@
 title: BCTF 2014 PPC & CRYPTO 100 混沌密碼鎖
 date: 2014-3-12 2:26 
 category: crypto
-tags: XCTF, collision
+tags: XCTF, Collision
 slug: bctf_crypto_100_password_lockstitch
 
 百度 CTF blue-lotus 辦的  

@@ -1,7 +1,7 @@
 title: 34C3CTF 2017 MISC 162 minbashmaxfun
 date: 2018-1-4 01:05
 category: misc
-tags: 3XC3CTF, bash, cmdi
+tags: 3XC3CTF, Bash, CMD Injection
 slug: 34c3ctf_2017_misc_162_minbashmaxfun
 
 34C3 跟去年一樣是在上班時間舉辦  

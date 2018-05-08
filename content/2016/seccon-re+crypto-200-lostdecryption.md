@@ -1,7 +1,7 @@
 title: SECCON 2016 Binary+Crypto 200 Lost Decryption
 date: 2016-12-13 2:43
 category: crypto
-tags: SECCON CTF, feistel cipher
+tags: SECCON CTF, Feistel Cipher
 slug: seccon_re+crypto_200_lostdecryption
 
 這題是 pwn 題被大家掃光之後  

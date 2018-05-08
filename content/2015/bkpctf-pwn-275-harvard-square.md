@@ -1,7 +1,7 @@
 title: Boston Key Party CTF 2015 Pwn 275 Harvard Square 
 date: 2015-03-02 1:50
 category: pwn
-tags: BKPCTF, bof
+tags: BKPCTF, Stack Overflow
 slug: bkpctf_pwn_275_harvard_square
 
 This problem was worth 275 pts, but I thought it is easier than other red problems. XD  
@@ -37,7 +37,7 @@ So we must find another vulunerbility.
 In fact, there is a bof when `play_game()` starting.  
 It couldn't overflow the return address, but we could use it to change function pointers. :D  
 
-The programe use [simple-gc](https://github.com/dhamidi/simple-gc/).  
+The program use [simple-gc](https://github.com/dhamidi/simple-gc/).  
 It will create two garbage-collectors and put function pointer `exploit_free` and `string_free` to gc.  
 Then, gc will trigger when we do `sleep` action.  
 We could overwrite function ptr to `action_hiscore`, and we could overwrite the return address.  

@@ -1,7 +1,7 @@
 title: Defcon 22 Quals Baby's First heap 
 date: 2014-5-20 1:31
 category: pwn
-tags: DEFCON CTF, hof
+tags: DEFCON CTF, Heap Overflow
 slug: defcon_pwn_baby_first_heap 
 
 這題是第一天在看的  

@@ -1,7 +1,7 @@
 title: Google CTF 2017 Crypto 201 RSA CTF Challenge
 date: 2017-6-26 11:38
 category: crypto 
-tags: PKCS#1 v1.5, CVE, Google CTF
+tags: PKCS#1 v1.5, RSA, CVE, Google CTF
 slug: gctf_crypto_201_rsa_ctf_challenge
 
 這題沒有解出來...不過學到很多關於 **PKCS#1 v1.5** 的攻擊方式  

@@ -1,7 +1,7 @@
 title: CSAW CTF 2015 pwn 500 rhinoxorus 
 date: 2015-9-21 21:23
 category: pwn
-tags: CSAWCTF, bof
+tags: CSAWCTF, Stack Overflow
 slug: csawctf_pwn_500_rhinoxorus
 
 想說這次 CSAW 從比較難的題目開始解  

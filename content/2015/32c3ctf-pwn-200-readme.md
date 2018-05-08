@@ -1,7 +1,7 @@
 title: 32C3CTF 2015 PWN 200 readme
 date: 2015-12-31 18:21
 category: pwn
-tags: 3XC3CTF, bof, trick
+tags: 3XC3CTF, Stack Overflow, Trick
 slug: 32c3ctf_2015_pwn_200_readme
 
 這題被安博給攔胡了 T\_T  

@@ -1,7 +1,7 @@
 title: Codegate CTF 2017 prequals web+pwn 435 PNGParser 
 date: 2017-2-13 11:34
 category: web
-tags: Codegate CTF, bof, LFI
+tags: Codegate CTF, Stack Overflow, LFI
 slug: codegate_web+pwn_435_pngparser
 
 The challenges is more interesting than last year.  
