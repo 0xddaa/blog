@@ -5,7 +5,7 @@ tags: 0CTF, linux kernel
 slug: 0ctf_pwnable_478_zer0fs
 
 The problem was solved with **jeffxx**, **atdog** and **lays**  
-Most of exploit was written by **atdog** during the competition and I rewroted the exploit for the write-up.  
+Most of exploit was written by **atdog** during the competition and I rewrote the exploit for the write-up.  
 
 * * *
 
