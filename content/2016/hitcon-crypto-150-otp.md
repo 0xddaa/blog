@@ -1,7 +1,7 @@
 title: HITCON CTF 2016 crypto 150 OTP
 date: 2016-10-13 20:13 
 category: crypto
-tags: PRNG 
+tags: PRNG, CVE
 slug: hitcon_crypto_150_otp
 
 Sovled: 12 / 1024

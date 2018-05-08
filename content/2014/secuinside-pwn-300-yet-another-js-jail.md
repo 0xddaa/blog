@@ -1,7 +1,7 @@
 title: Secuinside ctf 2014 pwn 300 yet-another-javascript-jail
 date: 2014-6-6 3:33
 category: pwn
-tags: Other CTF
+tags: Other CTF, CVE
 slug: secuinside_pwn_300_yet_another_js_jail 
 
 這題沒解出來 QQ  
