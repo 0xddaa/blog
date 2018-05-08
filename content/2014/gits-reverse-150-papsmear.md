@@ -1,7 +1,7 @@
 title: GiTs 2014 Reverse 150 papsmear
 date: 2014-1-20 19:58
 category: reverse
-tags: GiTsCTF
+tags: Other CTF
 slug: gits_reverse_150_papsmear
 
 這題很慢才打開  

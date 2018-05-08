@@ -1,7 +1,7 @@
 title: GiTs 2014 Trivia 150 lugkist
 date: 2014-1-20 19:04
 category: forensic
-tags: GiTsCTF
+tags: Other CTF
 slug: gits_trivia_150_lugkist
 
 這次的CTF全名是 : ghost in the shell code  
