@@ -1,7 +1,7 @@
 title: Plaid CTF 2014 Crypto 20 twenty 
 date: 2014-4-15 0:34
 category: crypto
-tags: PlaidCTF, Substitution cipher
+tags: PlaidCTF, Substitution Cipher
 slug: plaidctf_crypto_20_twenty 
 
 Try using English to write the solution down.  

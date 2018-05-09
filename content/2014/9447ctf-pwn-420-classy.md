@@ -1,7 +1,7 @@
 title: 9447 CTF 2014 pwn 420 classy 
 date: 2014-12-4 14:22
 category: pwn
-tags: Other CTF
+tags: Other CTF, VM Executable
 slug: 9447ctf_pwn_420_classy 
 
 這題看了十個小時多卻沒解出來  

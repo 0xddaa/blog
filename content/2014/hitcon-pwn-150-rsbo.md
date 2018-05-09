@@ -1,7 +1,7 @@
 title: HITCON CTF 2014 pwn 150 rsbo  
 date: 2014-8-18 23:01
 category: pwn
-tags: HITCON CTF
+tags: HITCON CTF, Stack Overflow
 slug: hitcon_pwn_150_rsbo 
 
 這題是 32 bit 的 elf  
