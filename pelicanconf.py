@@ -14,7 +14,8 @@ SITENAME = "ddaa's blog"
 ALT_NAME = ""
 SITESUBTITLE = "Write-ups for CTF."
 EMAIL = "0xddaa@gmail.com"
-SITEURL = "http://ddaa.tw"
+SITEURL = "https://ddaa.tw"
+ABSURL = SITEURL
 FAVICON = "images/favicon.ico"
 META_IMAGE = SITEURL + "/images/avatar.jpg"
 
