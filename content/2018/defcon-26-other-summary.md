@@ -61,6 +61,8 @@ PPP 已經成功打出 `pointless` 的 firstblood，據說得知主辦方出包�
 
 晚餐時間發生了小插曲，要用 ubereat 定麥當勞當晚餐，angelboy 原本想訂麥克雞塊套餐，結果點到快樂兒童餐，而且有一票人喊 +1，大家因此得到了好幾個 Mario Odyssey 的玩具 XDDD
 
+![mcdonalds.jpg]({filename}/images/defcon_26_mcdonalds.jpg)
+
 ## Day 2
 
 晚上大家分成三組解 `pointless`、`twoplustwo` 和 `doublethink`，`pointless` 看一陣子之後覺得幫不上忙，決定改去解 `doublethink`。
@@ -153,6 +155,8 @@ review 完主辦方給的環境後，發現每次 shellcode 在執行的環境�
 ![award.jpg]({filename}/images/defcon_26_award.jpg)
 
 結束跟去年一樣吃 Caesar 的 buffet，螃蟹腳吃到飽就是爽 (?) angelboy 也太會剝螃蟹了吧 = = 吃完跟 jeffxx、lsc、lays 去賭輪盤，jeffxx 沒多久就輸光退場了，我接著也輸光退場 QQ Lays 原本也要輸光了，結果連續梭兩次從 $10 變成 $40，有夠扯...= = lsc 還在各種奮戰，但 after party 的時間到了，就先回房間跟其他人會合會合一起過去，房間在玩 Overcooked，四個人玩到快要吵架了...XDDD
+
+![crab.jpg]({filename}/images/defcon_26_crab.jpg)
 
 after party 是 OOO 提供的總統套房，有超大電視螢幕、兩層樓、撞球桌和疑似廚房的空間，真的猛，但即使這麼大的空間場地還是被塞爆了，現場可能有快 100 人吧 = = 今年好像沒有 PCTF 的衣服好拿，只好改拿 shellphish 的衣服，現場人實在是太多了，只有跟 TokyoWesterns 和 Shellphish 的成員聊到天，沒多久就回去行政套房加入 switch party 的行列了 XD
 
