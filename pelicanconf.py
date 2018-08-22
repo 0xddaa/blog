@@ -32,7 +32,7 @@ DATE_FORMATS = {
 DEFAULT_DATE = 'fs'
 
 # Social widget
-SOCIAL = (('facebook-square', 'http://www.facebook.com/xddaa'),
+SOCIAL = (('facebook-square', 'http://www.facebook.com/0xddaa'),
         ('github', 'https://github.com/0xddaa'),
         ('twitter', 'https://twitter.com/0xddaa'),
         ('envelope-o', 'mailto:0xddaa@gmail.com'),)
