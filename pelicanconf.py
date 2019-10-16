@@ -40,7 +40,7 @@ SOCIAL = (('facebook-square', 'http://www.facebook.com/0xddaa'),
 
 SHARE = True
 
-FOOTER = ("&copy; 2018 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
+FOOTER = ("&copy; 2019 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
 
 DEFAULT_PAGINATION = 5 
 
@@ -59,3 +59,6 @@ DELETE_OUTPUT_DIRECTORY = True
 RELATIVE_URLS = True
 
 JINJA_FILTERS = {"until_hr" : until_hr}
+
+# disqus
+DISQUS_SITENAME = "ddaactf"
