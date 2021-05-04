@@ -40,9 +40,9 @@ SOCIAL = (('facebook-square', 'http://www.facebook.com/0xddaa'),
 
 SHARE = True
 
-FOOTER = ("&copy; 2019 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
+FOOTER = ("&copy; 2021 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
 
-DEFAULT_PAGINATION = 5 
+DEFAULT_PAGINATION = 5
 
 AUTHOR_SAVE_AS = ''
 #DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search', 'tags')
