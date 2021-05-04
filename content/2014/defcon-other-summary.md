@@ -1,7 +1,7 @@
-title: DEFCON 22 CTF final summary
+title: DEF CON 22 CTF Final summary
 date: 2014-8-13 18:34
 category: other
-tags: DEFCON CTF
+tags: DEF CON CTF
 slug: defcon_other_summary
 
 **===WARNING===**

@@ -1,7 +1,7 @@
-title: DEF CON CTF 29 Pwn 149 coooinbase 
+title: DEF CON 29 CTF Quals Pwn 149 coooinbase
 date: 2021-05-04 15:19
 category: pwn
-tags: DEFCON CTF, Stack Overflow, ARMv8, Shellcode
+tags: DEF CON CTF, Stack Overflow, ARMv8, Shellcode
 slug: defconctf_pwn_149_coooinbase
 
 2020 一整年都沒發文 XD，去年只有打 DEF CON 初賽決賽而已，今年年初只打了 RealWorld CTF，現在比較少打 CTF，除了健康和體力不太能負荷，總覺得題目也沒有以前有趣了，大部分題目要花大量時間逆向，技術含量卻有限，常常辛苦逆向完或寫好工具，但解完這題之後就用不太上...不如把時間拿去挖 real world 的漏洞更有價值 QQ 這題在漏洞部分是比較簡單的題目，但利用這個漏洞需要發揮創意思考，如果沒有非預期的爛洞的話會是有趣的 pwn 題

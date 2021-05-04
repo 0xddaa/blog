@@ -1,10 +1,10 @@
-title: DEFCON 26 CTF final summary
+title: DEF CON 26 CTF Final summary
 date: 2018-8-18 02:22
 category: other
-tags: DEFCON CTF
+tags: DEF CON CTF
 slug: defcon_26_other_summary
 
-稍微紀錄一下 DEFCON 26 CTF 這幾天的事情...  
+稍微紀錄一下 DEF CON 26 CTF 這幾天的事情...  
 有些情況是睡醒之後聽大家轉述的，如果有誤還麻煩指證 XD
 
 * * *
@@ -164,9 +164,9 @@ after party 是 OOO 提供的總統套房，有超大電視螢幕、兩層樓、
 
 ## 後記
 
-今年的 DEFCON CTF 因為 infrastructure 不穩定，大家還滿困擾的，但題目本身的品質還不錯，幾題 KoH 大家都玩得很盡興，尤其是 `doublethink`，在撰寫這篇文章時已經看到有串 9 個平台的版本了...真的是太瘋狂了 XD 還好主辦方最後允許用 race condition 的方式做題，否則今年能不能保住前三名實在難說 QQ
+今年的 DEF CON CTF 因為 infrastructure 不穩定，大家還滿困擾的，但題目本身的品質還不錯，幾題 KoH 大家都玩得很盡興，尤其是 `doublethink`，在撰寫這篇文章時已經看到有串 9 個平台的版本了...真的是太瘋狂了 XD 還好主辦方最後允許用 race condition 的方式做題，否則今年能不能保住前三名實在難說 QQ
 
-開始工作之後解 jeopardy 的能力大幅下滑了 QQ 稍微難一點的 pwn 題都要想很久才有辦法解，如果比較新的 trick 就更不會了 T\_\_T 但這兩年打 DEFCON CTF 反而做出比較多的貢獻，大概是基礎能力全面提升了吧? 今年的 `doublethink` 應該是我寫過的 exploit 裡面拿最多分的一次了，爽 XD
+開始工作之後解 jeopardy 的能力大幅下滑了 QQ 稍微難一點的 pwn 題都要想很久才有辦法解，如果比較新的 trick 就更不會了 T\_\_T 但這兩年打 DEF CON CTF 反而做出比較多的貢獻，大概是基礎能力全面提升了吧? 今年的 `doublethink` 應該是我寫過的 exploit 裡面拿最多分的一次了，爽 XD
 
 ![doublethink_result.jpg]({filename}/images/defcon_26_doublethink_result.jpg)
 

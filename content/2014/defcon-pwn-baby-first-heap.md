@@ -1,8 +1,8 @@
-title: Defcon 22 Quals Baby's First heap 
+title: DEF CON 22 CTF Quals Baby's First heap
 date: 2014-5-20 1:31
 category: pwn
-tags: DEFCON CTF, Heap Overflow
-slug: defcon_pwn_baby_first_heap 
+tags: DEF CON CTF, Heap Overflow
+slug: defcon_pwn_baby_first_heap
 
 這題是第一天在看的  
 在嘗試做 payload 時 **jeffxx** 就解完啦 XD  
