@@ -40,7 +40,7 @@ SOCIAL = (('facebook-square', 'http://www.facebook.com/0xddaa'),
 
 SHARE = True
 
-FOOTER = ("&copy; 2021 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
+FOOTER = ("&copy; 2026 <a href=\"mailto:0xddaa@gmail.com\">ddaa</a>. All rights reserved.<br>")
 
 DEFAULT_PAGINATION = 5
 
