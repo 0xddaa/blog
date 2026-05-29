@@ -4,7 +4,7 @@ category: other
 tags: DEF CON CTF
 slug: defcon_other_summary
 
-**===WARNING===**
+**===WARNING===**  
 這篇文章廢話超多......  
 若要看比賽細節請直接跳至 **8/8**  
 * * *
