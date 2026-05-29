@@ -29,7 +29,7 @@ slug: defcon_other_summary
 最後吃了漢堡王...好貴  
 不過份量也很大  
 大家對蘑菇醬很有話題...XDD  
-![IMG_1733.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/WBrjgcYzQoSJ7dOIROZK_IMG_1733.JPG)
+![IMG_1733.JPG]({filename}/images/IMG_1733.jpg)
 
 吃完去賭場逛逛  
 大家玩了幾次吃角子老虎  
@@ -37,7 +37,7 @@ slug: defcon_other_summary
 因為網路要另外收錢 = =  
 順便抱怨飯店的提供的肥皂和洗髮精真的很難用  
 我有點皮膚過敏的反應 orz  
-![IMG_1734.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/lE6XqYfnTeuUtH8tPf4Y_IMG_1734.JPG)  
+![IMG_1734.JPG]({filename}/images/IMG_1734.jpg)
 
 
 ## 8/6
@@ -86,7 +86,7 @@ buffet 味道還不錯
 我沒帶證件就被趕回房間了 QQ  
 把一些 script 做細微修改  
 剩下的時間研究去年 blue-lotus 的心得和去年 defcon 規則  
-![IMG_1757.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/IJ1AfSDFRduOKnyl14Je_IMG_1757.JPG)  
+![IMG_1757.JPG]({filename}/images/IMG_1757.jpg)
 
 ## 8/7
 * * *
@@ -101,12 +101,12 @@ badge 是一塊...開發板 ?
 我對硬體不熟就沒研究了  
 沒多久 alan 買完其他人的 badge  
 大概有 20 幾個 ... 超扯 XD  
-![IMG_1766.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/Q6WB6yoSSTSIpK7eFW7y_IMG_1766.JPG)  
+![IMG_1766.JPG]({filename}/images/IMG_1766.jpg)
 
 接著我們下去買紀念 t-shirt 的攤位  
 一路上都是排隊買票的隊伍  
 長度快要突破天際啦~~~  
-![IMG_1770.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/0xO4c4xRQzWTtBvcJCrq_IMG_1770.JPG)  
+![IMG_1770.JPG]({filename}/images/IMG_1770.jpg)
 到攤位才知道原來 t-shirt 有很多種  
 樣式還滿好看的 不輸西門町一些潮T  
 最有看頭的是白色醫生袍 XDDD  
@@ -116,7 +116,7 @@ badge 是一塊...開發板 ?
 只好先買了一件外套和 t-shirt  
 外套要 $60 樣式很普通  
 材質感覺不錯 穿起來很舒服  
-![IMG_1773.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/MDiHWTHESwispnHRXdCM_IMG_1773.JPG)  
+![IMG_1773.JPG]({filename}/images/IMG_1773.jpg)
 
 下午去逛 outlet  
 orange & alan & me 搭導演的車  
@@ -127,7 +127,7 @@ orange & alan & me 搭導演的車
 看到很多台灣的商品  
 結帳時店員也是來自台灣  
 還跟 alan 要電話 XD  
-![IMG_1804.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/aMIkfF4QESjWNzS6DltI_IMG_1804.JPG)  
+![IMG_1804.JPG]({filename}/images/IMG_1804.jpg)
 
 等大家都回到飯店後  
 對明天比賽的戰術最後討論  
@@ -373,7 +373,7 @@ sean 和 jeffxx 把 arm 版本的 `eliza` 第二個漏洞給做出來
 我們也跟他們提到 HITCON CTF  
 說題目還沒出完  
 他也回說完全了解出題的痛苦 XD  
-![IMG_1813.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/KTP0zJmeRyezvahV3trC_IMG_1813.JPG)  
+![IMG_1813.JPG]({filename}/images/IMG_1813.jpg)
 
 最後閉幕式在半夢半醒中度過  
 聽到 _dragon sector_ 的名字我嚇了一大跳  
@@ -383,7 +383,7 @@ sean 和 jeffxx 把 arm 版本的 `eliza` 第二個漏洞給做出來
 跟第二天的名次完全一樣 XD  
 插曲是因為宣布名次時攝影大哥剛好去上廁所  
 在後面罵一聲 **幹!!!** XDDD  
-![IMG_1815.JPG](http://user-image.logdown.io/user/6149/blog/6156/post/220500/BHzsEqRruLGYt3kQUZ3A_IMG_1815.JPG)  
+![IMG_1815.JPG]({filename}/images/IMG_1815.jpg)
 
 晚餐吃了奇怪的中式合菜  
 除了那道青菜以外吃起來都不錯  
